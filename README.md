@@ -22,3 +22,23 @@ Não há moderação, bloqueios ou restrições: o objetivo foi apenas **continu
 | **Git & GitHub** | Versionamento |
 
 ---
+
+## 📌 Funcionalidades
+
+| Função | Descrição |
+|-------|-----------|
+| Criar Post | Usuário publica mensagens |
+| Ver Feed | Exibe todas as postagens na ordem criada |
+| Timeline Simples | Feed sequencial, sem algoritmo |
+| Sem Moderação | Nenhuma postagem é bloqueada ou removida |
+
+---
+
+## 🏁 Como Executar
+
+```bash
+git clone https://github.com/PedroTerra11/tuiter-sem-ban-main
+cd tuiter-sem-ban-main
+node index.js
+
+
